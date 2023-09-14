@@ -20,7 +20,7 @@ DELETE FROM RETAIL
 WHERE Quantity < 0
 
 
---ANALYZING THA DATA
+--ANALYZING THE DATA
 --*******************************************
 
 -- FIND THE CUSTOMER QUANTITY  FOR EACH COUNTRY
